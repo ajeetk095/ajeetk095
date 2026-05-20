@@ -17,22 +17,83 @@
 
 <br>
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    🌟 PROFILE HIGHLIGHTS 🌟                   ║
-╠════════════════════════════════════════════════════════════════╣
-║  📊 MSc Financial Engineering (87% | WorldQuant University)   ║
-║  🎓 M.Tech CSE (7.92/10 CGPA | NSUT Delhi)                   ║
-║  💻 B.Tech IT (7.19/10 CGPA | Dr. APJ Abdul Kalam Univ)      ║
-║  🥇 1st Place Algo8 ML Hackathon (IIT Kanpur 2019)           ║
-║  👑 Presidential Felicitation (Academic Excellence 2018)     ║
-║  📍 Bangalore, India | ⚡ Open to Full-Time Quant Roles      ║
-╚════════════════════════════════════════════════════════════════╝
-```
+</div>
 
 ---
 
+## 🌟 **PROFILE HIGHLIGHTS** 🌟
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/MSc%20Financial%20Engineering-87%25-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="MSc"><br>
+<strong>WorldQuant University</strong><br>
+<small>Advanced Quantitative Methods</small>
 </div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/M.Tech%20CSE-7.92%2F10-2196F3?style=for-the-badge&logo=code&logoColor=white" alt="M.Tech"><br>
+<strong>NSUT Delhi</strong><br>
+<small>AI & Machine Learning</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/B.Tech%20IT-7.19%2F10-FF9800?style=for-the-badge&logo=laptop&logoColor=white" alt="B.Tech"><br>
+<strong>Dr. APJ Abdul Kalam Univ</strong><br>
+<small>Core CS Fundamentals</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/🏆%20Hackathon%20Winner-1st%20Place-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Trophy"><br>
+<strong>IIT Kanpur 2019</strong><br>
+<small>ML Championship</small>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/👑%20Presidential%20Felicitation-2018-9C27B0?style=for-the-badge&logo=crown&logoColor=white" alt="Presidential"><br>
+<strong>Academic Excellence</strong><br>
+<small>National Recognition</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/📍%20Location-Bangalore%2C%20India-E91E63?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location"><br>
+<strong>Ready to Work</strong><br>
+<small>Full-Time Immediately</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/50%2B%20Projects-✅%20Completed-00BCD4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"><br>
+<strong>Portfolio Strength</strong><br>
+<small>Proven Expertise</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/53%2B%20Certifications-🎖️%20Elite-3F51B5?style=for-the-badge&logo=award&logoColor=white" alt="Certifications"><br>
+<strong>Continuous Learning</strong><br>
+<small>Professional Growth</small>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🎮 **QUICK STAT CARDS** 📊
 
@@ -78,65 +139,99 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 <div align="center">
 
-### 📚 **Degree Timeline**
+### 📚 **Degree Timeline - Visual Cards**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<div>
+
+#### 🔵 **MSc Financial Engineering**
+
+![WQU](https://img.shields.io/badge/WorldQuant%20University-DC-0066CC?style=flat-square)
+
+**Oct 2023 – Present**  
+**Grade: 87%** ⭐⭐⭐
 
 ```
-🔵 MSc Financial Engineering
-   WorldQuant University, DC
-   Oct 2023 – Present
-   Grade: 87% ⭐⭐⭐
-   
-   🌟 Key Courses:
-   ├─ Financial Econometrics: 94% 🎯
-   ├─ Deep Learning for Finance: 95% 🚀
-   ├─ Derivative Pricing: 88% 💰
-   └─ Portfolio Management: 84% 📊
+📊 Key Courses:
+├─ Financial Econometrics: 94% 🎯
+├─ Deep Learning for Finance: 95% 🚀
+├─ Derivative Pricing: 88% 💰
+└─ Portfolio Management: 84% 📊
 ```
 
-```
-🟢 M.Tech Computer Science
-   NSUT, New Delhi
-   Oct 2021 – Jul 2023
-   CGPA: 7.92/10 📈
-   
-   🏅 Highlights:
-   ├─ ML & AI Specialization
-   ├─ Data Science Projects
-   └─ Research Publications
-```
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+
+#### 🟢 **M.Tech Computer Science**
+
+![NSUT](https://img.shields.io/badge/NSUT%20Delhi-2023-00AA00?style=flat-square)
+
+**Oct 2021 – Jul 2023**  
+**CGPA: 7.92/10** 📈
 
 ```
-🟣 B.Tech Information Technology
-   Dr. APJ Abdul Kalam, Lucknow
-   Aug 2017 – Aug 2021
-   CGPA: 7.19/10 💪
-   
-   🎯 Foundation:
-   ├─ Core CS Fundamentals
-   ├─ Web Development
-   └─ Database Systems
+🏅 Highlights:
+├─ ML & AI Specialization
+├─ Data Science Projects
+└─ Research Publications
 ```
+
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+
+#### 🟣 **B.Tech Information Technology**
+
+![APJ](https://img.shields.io/badge/Dr.%20APJ%20Abdul%20Kalam%20Univ-2021-8800FF?style=flat-square)
+
+**Aug 2017 – Aug 2021**  
+**CGPA: 7.19/10** 💪
+
+```
+🎯 Foundation:
+├─ Core CS Fundamentals
+├─ Web Development
+└─ Database Systems
+```
+
+</div>
+</td>
+</tr>
+</table>
 
 ### 🏆 **Quantitative Mastery Matrix**
 
-```json
-{
-  "🎓 Financial Theory": {
-    "Markowitz MVO": "⭐⭐⭐⭐⭐",
-    "Black-Litterman": "⭐⭐⭐⭐⭐",
-    "Fama-French 5-Factor": "⭐⭐⭐⭐⭐",
-    "Monte Carlo Methods": "⭐⭐⭐⭐⭐",
-    "Risk Metrics (CVaR, Sortino)": "⭐⭐⭐⭐⭐"
-  },
-  "💻 Technical Excellence": {
-    "Python Mastery": "⭐⭐⭐⭐⭐",
-    "Data Engineering": "⭐⭐⭐⭐⭐",
-    "ML/Deep Learning": "⭐⭐⭐⭐⭐",
-    "Cloud & DevOps": "⭐⭐⭐⭐☆",
-    "API Development": "⭐⭐⭐⭐☆"
-  }
-}
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 Financial Theory**
+
+![MVO](https://img.shields.io/badge/Markowitz%20MVO-⭐⭐⭐⭐⭐-FFD700?style=flat-square)
+![BL](https://img.shields.io/badge/Black--Litterman-⭐⭐⭐⭐⭐-FFD700?style=flat-square)
+![FF5](https://img.shields.io/badge/Fama--French%205F-⭐⭐⭐⭐⭐-FFD700?style=flat-square)
+![MC](https://img.shields.io/badge/Monte%20Carlo-⭐⭐⭐⭐⭐-FFD700?style=flat-square)
+![Risk](https://img.shields.io/badge/Risk%20Metrics-⭐⭐⭐⭐⭐-FFD700?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**💻 Technical Excellence**
+
+![Python](https://img.shields.io/badge/Python%20Mastery-⭐⭐⭐⭐⭐-3776AB?style=flat-square)
+![DE](https://img.shields.io/badge/Data%20Engineering-⭐⭐⭐⭐⭐-FF6B6B?style=flat-square)
+![ML](https://img.shields.io/badge/ML%2FDeep%20Learning-⭐⭐⭐⭐⭐-412991?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud%20%26%20DevOps-⭐⭐⭐⭐☆-FF9900?style=flat-square)
+![API](https://img.shields.io/badge/API%20Development-⭐⭐⭐⭐☆-00AA00?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -207,29 +302,33 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **1️⃣ Advanced Portfolio Optimization Framework** 📊
 
-> **Multi-Asset Allocation Battle Royale: MVO vs Black-Litterman vs Kelly Criterion**
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║       🎖️ PORTFOLIO OPTIMIZATION CHAMPION 🎖️       ║
-╠═══════════════════════════════════════════════════╣
-║  Portfolio Size: 10 Correlated Assets             ║
-║  Simulation Trials: 5,000+ Monte Carlo            ║
-║  Algorithms: 3 Competing Strategies               ║
-║  Performance Metrics: Sharpe, Sortino, Calmar     ║
-║                                                   ║
-║  🏆 RESULT: 15% Better Risk-Adjusted Returns     ║
-╚═══════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 📊 **Metric** | 🎯 **Value** | 📈 **Improvement** |
-|:---:|:---:|:---:|
-| **Sharpe Ratio** | 1.45 | +18% |
-| **Max Drawdown** | -8.2% | -45% |
-| **Volatility** | 9.3% | -22% |
-| **Return** | 24.5% | +15% |
+#### Multi-Asset Allocation Battle Royale
+
+**MVO vs Black-Litterman vs Kelly Criterion**
+
+![Portfolio](https://img.shields.io/badge/Portfolio%20Optimizer-LIVE-00C853?style=flat-square&logo=target)
+![Assets](https://img.shields.io/badge/Assets-10%20Correlated-2196F3?style=flat-square)
+![Trials](https://img.shields.io/badge/Monte%20Carlo-5000%2B-FF6F00?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+#### 🏆 RESULTS
+
+![Sharpe](https://img.shields.io/badge/Sharpe%20Ratio-1.45%20(%2B18%25)-00AA00?style=flat-square&logo=trending-up)
+![Drawdown](https://img.shields.io/badge/Max%20Drawdown-%258.2%25%20(%2D45%25)-C62828?style=flat-square)
+![Volatility](https://img.shields.io/badge/Volatility-9.3%25%20(%2D22%25)-FF9800?style=flat-square)
+![Return](https://img.shields.io/badge/Annual%20Return-24.5%25%20(%2B15%25)-1976D2?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **🔧 Tech Stack:** Python | NumPy | cvxpy | Pandas | Matplotlib  
 **💡 Methodology:** Convex optimization with constraint handling  
@@ -241,28 +340,33 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **2️⃣ ML-Enhanced Portfolio with Covariance Denoising** 🧠
 
-> **Ledoit-Wolf Shrinkage Magic for 12-Asset Portfolio**
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║   🔧 COVARIANCE MATRIX DENOISING SPECIALIST 🔧    ║
-╠═══════════════════════════════════════════════════╣
-║  Method: Ledoit-Wolf Shrinkage                    ║
-║  Assets: 12 Diversified Holdings                 ║
-║  Risk Metrics: CVaR, Calmar, Max DD               ║
-║  Sample Stabilization: Small N Robust             ║
-║                                                   ║
-║  📊 RESULT: 30%+ Estimation Error Reduction      ║
-╚═══════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🎯 **Aspect** | 📈 **Before** | ✅ **After** | 🚀 **Gain** |
-|:---:|:---:|:---:|:---:|
-| **Estimation Error** | 15.2% | 10.5% | -30.9% |
-| **VaR Stability** | ±4.5% | ±1.8% | -60% |
-| **Backtesting Fit** | 72% | 89% | +17% |
+#### Ledoit-Wolf Shrinkage Magic
+
+**12-Asset Portfolio Optimization**
+
+![Denoising](https://img.shields.io/badge/Ledoit--Wolf%20Shrinkage-ACTIVE-00C853?style=flat-square&logo=target)
+![Assets](https://img.shields.io/badge/Assets-12%20Holdings-2196F3?style=flat-square)
+![Metrics](https://img.shields.io/badge/Risk%20Metrics-CVaR%20%7C%20Calmar-FF6F00?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+#### 📊 RESULTS
+
+![Error](https://img.shields.io/badge/Estimation%20Error-%2D30.9%25-00AA00?style=flat-square&logo=trending-down)
+![VaR](https://img.shields.io/badge/VaR%20Stability-%2D60%25-1976D2?style=flat-square)
+![Backtest](https://img.shields.io/badge/Backtesting%20Fit-%2B17%25-FF9800?style=flat-square)
+![Production](https://img.shields.io/badge/Status-PRODUCTION%20READY-00C853?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **🔧 Tech Stack:** scikit-learn | statsmodels | Pandas | NumPy  
 **🎓 Innovation:** Automatic shrinkage intensity tuning  
@@ -274,31 +378,37 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **3️⃣ Fama-French 5-Factor Equity Analysis** 📉
 
-> **Deep Dive into Factor Exposure & Risk Attribution**
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║     💰 FACTOR REGRESSION ANALYSIS MASTER 💰      ║
-╠═══════════════════════════════════════════════════╣
-║  Market Factor (MKT-RF): Beta Sensitivity ████   ║
-║  Size Factor (SMB): Small-Cap Premium   ███░    ║
-║  Value Factor (HML): Value Premium      █████   ║
-║  Profitability (RMW): Operating Prof    ███░    ║
-║  Investment (CMA): Investment Cons      ████░   ║
-║                                                   ║
-║  📊 R² Score: 87% | Variance Explained  ✅       ║
-╚═══════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center">
 
-| 🔬 **Factor** | 🎯 **Beta** | 📊 **T-Stat** | ⭐ **Significance** |
+**Factor Loading Summary**
+
+| Factor | Beta | T-Stat | Significance |
 |:---:|:---:|:---:|:---:|
-| **Market (MKT-RF)** | 0.95 | 12.4 | ★★★★★ |
-| **Size (SMB)** | 0.32 | 3.8 | ★★★★☆ |
-| **Value (HML)** | 0.42 | 5.2 | ★★★★☆ |
-| **Profitability (RMW)** | 0.28 | 2.9 | ★★★☆☆ |
-| **Investment (CMA)** | -0.18 | -1.5 | ★★☆☆☆ |
+| Market (MKT-RF) | 0.95 | 12.4 | ★★★★★ |
+| Size (SMB) | 0.32 | 3.8 | ★★★★☆ |
+| Value (HML) | 0.42 | 5.2 | ★★★★☆ |
+| Profitability (RMW) | 0.28 | 2.9 | ★★★☆☆ |
+| Investment (CMA) | -0.18 | -1.5 | ★★☆☆☆ |
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+![R2](https://img.shields.io/badge/R²%20Score-87%25%20Variance%20Explained-00AA00?style=flat-square&logo=chart-line)
+![Method](https://img.shields.io/badge/Method-OLS%20Regression%20%2B%20Backtest-2196F3?style=flat-square)
+![Validation](https://img.shields.io/badge/Validation-Out%20of%20Sample-FF6F00?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **🔬 Method:** OLS Regression + Backtesting + Out-of-sample validation  
 **📈 Insight:** Factor loadings reveal true return drivers  
@@ -310,31 +420,34 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **🥇 4️⃣ Telecom Loan Default Prediction** 🏆
 
-> **1st Place Achievement: ML-Driven Credit Risk Assessment**
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║        🥇 HACKATHON CHAMPION PROJECT 🥇          ║
-╠═══════════════════════════════════════════════════╣
-║  🎖️ Rank: 1st Place (Algo8 ML Hackathon 2019)   ║
-║  📍 Location: IIT Kanpur                         ║
-║  🎯 Challenge: Telecom Loan Default Prediction   ║
-║  🤖 Model: Random Forest + XGBoost Ensemble      ║
-║  📊 Feature Engineering: PCA Dimensionality      ║
-║                                                   ║
-║  🏆 RESULT: 92% Recall | Beating All Competitors║
-╚═══════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 📊 **Metric** | 🎯 **Score** | ⚡ **Performance** |
-|:---:|:---:|:---:|
-| **Recall** | 92% | 🚀 Excellent |
-| **Precision** | 87% | 🟢 Strong |
-| **F1-Score** | 0.89 | ✅ Outstanding |
-| **ROC-AUC** | 0.94 | 🏆 Champion |
-| **Business Impact** | 🎖️ 1st | 🥇 Winner |
+#### 1st Place Hackathon Winner
+
+**Algo8 ML Hackathon 2019**  
+**IIT Kanpur**
+
+![Award](https://img.shields.io/badge/🥇%20RANK-1ST%20PLACE-FFD700?style=flat-square&logo=trophy)
+![Challenge](https://img.shields.io/badge/Challenge-Loan%20Default%20Prediction-FF6F00?style=flat-square)
+![Model](https://img.shields.io/badge/Model-RF%20%2B%20XGBoost%20Ensemble-1976D2?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+#### 📊 WINNING METRICS
+
+![Recall](https://img.shields.io/badge/Recall-92%25-00AA00?style=flat-square&logo=check)
+![Precision](https://img.shields.io/badge/Precision-87%25-00AA00?style=flat-square)
+![F1](https://img.shields.io/badge/F1--Score-0.89-00AA00?style=flat-square)
+![AUC](https://img.shields.io/badge/ROC--AUC-0.94-00AA00?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **🔧 Tech Stack:** scikit-learn | XGBoost | Pandas | numpy  
 **🎯 Optimization:** Maximized recall for default detection  
@@ -347,30 +460,33 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **🤖 5️⃣ AI-Powered Defect Detection System** 👁️
 
-> **Computer Vision for Manufacturing Quality Control**
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║    🏭 PRODUCTION-GRADE COMPUTER VISION 🏭        ║
-╠═══════════════════════════════════════════════════╣
-║  🎯 Application: Electronic Bottle Inspection    ║
-║  📸 Technology: OpenCV + Deep Learning CNN       ║
-║  🔧 Deployment: Live Manufacturing Line          ║
-║  ⏱️  Internship: Jan–May 2020 (Algo8 AI)         ║
-║                                                   ║
-║  📊 RESULT: 40% Testing Time Reduction          ║
-║  ✅ Accuracy: 94% on Real Manufacturing Data    ║
-╚═══════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🎯 **KPI** | 📊 **Value** | 💰 **Business Impact** |
-|:---:|:---:|:---:|
-| **Detection Accuracy** | 94% | ✅ Industry-Ready |
-| **Speed Improvement** | 40% ↓ | 💰 Cost Reduction |
-| **False Negatives** | 2.1% | 🛡️ Quality Assured |
-| **Deployment Status** | Live | 🚀 Production |
+#### Computer Vision Excellence
+
+**Electronic Bottle Inspection**
+
+![App](https://img.shields.io/badge/Application-Quality%20Control-FF6F00?style=flat-square&logo=camera)
+![Tech](https://img.shields.io/badge/Tech-OpenCV%20%2B%20Deep%20Learning-1976D2?style=flat-square)
+![Internship](https://img.shields.io/badge/Internship-Jan--May%202020-2196F3?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+#### 📊 PRODUCTION METRICS
+
+![Accuracy](https://img.shields.io/badge/Accuracy-94%25-00AA00?style=flat-square)
+![Speed](https://img.shields.io/badge/Speed%20Improvement-40%25-00AA00?style=flat-square&logo=zap)
+![FN](https://img.shields.io/badge/False%20Negatives-2.1%25-FF9800?style=flat-square)
+![Status](https://img.shields.io/badge/Status-LIVE%20PRODUCTION-00C853?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **🔧 Tech Stack:** OpenCV | TensorFlow/Keras | Python | CUDA  
 **📸 Pipeline:** Data collection → Augmentation → Training → Deployment  
@@ -390,70 +506,100 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 </div>
 
 ### 🎯 **Data Science Intern** | **Algo8 AI Pvt. Ltd.**
-**📅 Jan 2020 – May 2020** | *Bangalore, India*
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════╗
-║            🎖️ ALGORITHM ENGINEERING EXPERT 🎖️         ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  ✅ Electronic Bottle Inspection (EBI) AI Model      ║
-║     └─ Computer vision pipeline for defect detection ║
-║     └─ Reduced QC testing time by ~40%              ║
-║     └─ Achieved 94% accuracy on real manufacturing  ║
-║                                                        ║
-║  ✅ End-to-End ML Pipeline Implementation            ║
-║     └─ Data: Collection, preprocessing, augmentation ║
-║     └─ Model: Training, validation, tuning           ║
-║     └─ Deployment: Production monitoring & logging   ║
-║                                                        ║
-║  ✅ Recognition & Awards                             ║
-║     └─ 🥇 1st Place – Algo8 ML Hackathon (IIT-K)   ║
-║     └─ 🏆 Telecom Loan Default Prediction Winner    ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🎯 **Achievement** | 📊 **Result** | ⭐ **Impact** |
-|:---:|:---:|:---:|
-| **Hackathon Win** | 1st Place | 🏆 Champion |
-| **QC Efficiency** | -40% Time | 💰 Cost Saving |
-| **Model Accuracy** | 94% | ✅ Production-Ready |
-| **Industry Recognition** | Yes | 🚀 Career Launch |
+**📅 Jan 2020 – May 2020**  
+**📍 Bangalore, India**
+
+![Intern](https://img.shields.io/badge/Role-Data%20Science%20Intern-1976D2?style=flat-square)
+![Company](https://img.shields.io/badge/Company-Algo8%20AI-FF6F00?style=flat-square)
+![Duration](https://img.shields.io/badge/Duration-5%20Months-2196F3?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**🏆 Key Achievements**
+
+![EBI](https://img.shields.io/badge/EBI%20Model-94%25%20Accuracy-00AA00?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Hackathon-1st%20Place-FFD700?style=flat-square)
+![Efficiency](https://img.shields.io/badge/QC%20Time-40%25%20Reduction-00AA00?style=flat-square)
+![Recognition](https://img.shields.io/badge/Recognition-Champion-FFD700?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+#### ✅ **Key Responsibilities**
+
+| Project | Impact |
+|:---|:---|
+| **Electronic Bottle Inspection AI** | 40% Testing Time Reduction |
+| **ML Pipeline Implementation** | End-to-End Solution |
+| **1st Place ML Hackathon** | Telecom Default Prediction |
+| **Production Deployment** | Manufacturing Line Live |
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ### 📊 **Market Research & Development Analyst** | **Amul GCMMF Ltd.**
-**📅 Oct 2020 – Jan 2021** | *Uttar Pradesh, India*
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════╗
-║           📈 MARKET INTELLIGENCE SPECIALIST 📈         ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  ✅ Multi-City Market Research Campaign (25+ Cities) ║
-║     └─ Consumer behavior analysis across UP         ║
-║     └─ Brand perception & competitive positioning   ║
-║     └─ Regional sales deep-dive analysis             ║
-║                                                        ║
-║  ✅ Actionable Insights Generation                   ║
-║     └─ Market trends & consumer preferences         ║
-║     └─ Targeted marketing strategy recommendations   ║
-║     └─ Regional distribution optimization            ║
-║                                                        ║
-║  ✅ Business Impact                                  ║
-║     └─ Enhanced promotional planning accuracy        ║
-║     └─ Improved regional market penetration         ║
-║     └─ Strategic competitive positioning            ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📅 Oct 2020 – Jan 2021**  
+**📍 Uttar Pradesh, India**
+
+![Role](https://img.shields.io/badge/Role-Market%20Research%20Analyst-00AA00?style=flat-square)
+![Company](https://img.shields.io/badge/Company-Amul%20GCMMF%20Ltd-FF6F00?style=flat-square)
+![Duration](https://img.shields.io/badge/Duration-4%20Months-2196F3?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**📈 Key Achievements**
+
+![Research](https://img.shields.io/badge/Market%20Research-25%2B%20Cities-1976D2?style=flat-square)
+![Analysis](https://img.shields.io/badge/Consumer%20Behavior-Deep%20Dive-2196F3?style=flat-square)
+![Strategy](https://img.shields.io/badge/Strategic%20Impact-High-00AA00?style=flat-square)
+![Recognition](https://img.shields.io/badge/Business%20Value-Significant-FF6F00?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+#### ✅ **Key Responsibilities**
+
+| Initiative | Outcome |
+|:---|:---|
+| **Multi-City Market Research Campaign** | 25+ Cities Coverage |
+| **Consumer Behavior Analysis** | Regional Insights |
+| **Competitive Positioning** | Strategic Recommendations |
+| **Sales Optimization** | Distribution Strategy |
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -465,12 +611,54 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **TROPHY CABINET**
 
-| 🎖️ **Award** | 🏢 **Organization** | 📅 **Date** | 🌟 **Recognition** |
-|:---:|:---:|:---:|:---|
-| 🥇 **1st Place – ML Hackathon** | Algo8 / IIT Kanpur | Jun-Jul 2019 | Telecom loan default prediction champion |
-| 👑 **Presidential Felicitation** | Hon'ble President of India | Jun 2018 | Academic excellence & national recognition |
-| 🥉 **3rd Place – GS Quiz** | JIMMC Navrang Media Fest | Feb 2015 | General studies competition |
-| 🎖️ **Governor's Award** | Bharat Scouts & Guides | Aug 2013 | Rajya Purashkar Scout Award |
+<table>
+<tr>
+<td align="center" width="25%">
+
+![Trophy1](https://img.shields.io/badge/🥇%20ML%20Hackathon-1ST%20PLACE-FFD700?style=flat-square)
+
+**Algo8 / IIT Kanpur**  
+Jun-Jul 2019
+
+Telecom Loan Default  
+Prediction Champion
+
+</td>
+<td align="center" width="25%">
+
+![Trophy2](https://img.shields.io/badge/👑%20Presidential%20Felicitation-EXCELLENCE-9C27B0?style=flat-square)
+
+**Hon'ble President**  
+Jun 2018
+
+Academic Excellence &  
+National Recognition
+
+</td>
+<td align="center" width="25%">
+
+![Trophy3](https://img.shields.io/badge/🥉%20GS%20Quiz-3RD%20PLACE-CD7F32?style=flat-square)
+
+**JIMMC Navrang**  
+Feb 2015
+
+General Studies  
+Competition
+
+</td>
+<td align="center" width="25%">
+
+![Trophy4](https://img.shields.io/badge/🎖️%20Governor%20Award-RECOGNITION-8B7500?style=flat-square)
+
+**Bharat Scouts**  
+Aug 2013
+
+Rajya Purashkar  
+Scout Award
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -482,74 +670,225 @@ I'm **Ajeet Kumar**, a **Quantitative Finance Researcher** on a mission to revol
 
 ### **🔐 REGULATORY CERTIFICATIONS**
 
-```
-✅ SEBI Investor Certification (NISM)
-   Passed: Jun 2024 | Valid: May 2026 | Status: ⭐ Active
-   
-✅ IAENG Membership (International Association of Engineers)
-   Member ID: #265771 | Status: Recognized Professional
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-### **💼 ELITE VIRTUAL SIMULATIONS (JP Morgan - Forage)**
+![NISM](https://img.shields.io/badge/✅%20SEBI%20Investor%20Certification-NISM-00AA00?style=for-the-badge)
 
-```
-✅ JP Morgan Quantitative Research (Oct 2023)
-   ├─ Price data investigation & analysis
-   ├─ Commodity storage contracts evaluation
-   └─ Credit risk assessment & modeling
-   
-✅ JP Morgan Investment Banking (Jul 2023)
-   ├─ M&A target identification
-   ├─ Financial modeling & valuation
-   └─ Investment recommendations framework
-```
+**Passed:** Jun 2024  
+**Valid:** May 2026  
+**Status:** ⭐ Active
+
+</td>
+<td align="center" width="50%">
+
+![IAENG](https://img.shields.io/badge/✅%20IAENG%20Membership-RECOGNIZED-1976D2?style=for-the-badge)
+
+**Member ID:** #265771  
+**Status:** Professional Engineer  
+**Recognition:** International
+
+</td>
+</tr>
+</table>
+
+### **💼 JP MORGAN ELITE VIRTUAL SIMULATIONS** (Forage)
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+![JPM-QR](https://img.shields.io/badge/JP%20Morgan%20Quantitative%20Research-COMPLETED-FF6F00?style=for-the-badge&logo=chart-line)
+
+**Oct 2023**
+
+✅ Price Data Investigation  
+✅ Commodity Storage Contracts  
+✅ Credit Risk Assessment
+
+</td>
+<td align="center" width="50%">
+
+![JPM-IB](https://img.shields.io/badge/JP%20Morgan%20Investment%20Banking-COMPLETED-FF6F00?style=for-the-badge&logo=briefcase)
+
+**Jul 2023**
+
+✅ M&A Target Identification  
+✅ Financial Modeling & Valuation  
+✅ Investment Recommendations
+
+</td>
+</tr>
+</table>
 
 ### **🎓 PRESTIGIOUS UNIVERSITY COURSES**
 
-| 🏫 **Course** | 🎯 **Institution** | ✅ **Status** |
-|:---|:---:|:---:|
-| Pre-MBA Statistics | IIM Ahmedabad (Coursera) | ✅ Complete |
-| Data Science Fundamentals | IBM Skills Network | ✅ Complete |
-| Introduction to AI | IBM Skills Network | ✅ Complete |
-| Google Cloud Fundamentals | Google Cloud | ✅ Complete |
-| Python Programming Mastery | University of Michigan | ✅ Complete |
-| HTML5 & Web Development | University of Michigan | ✅ Complete |
+<table>
+<tr>
+<td align="center" width="33%">
 
-### **📚 ADVANCED UDEMY TRAINING (50+ Hours)**
+**🏫 IIM Ahmedabad**
 
-```
-Advanced Analytics with Excel (21 hrs)    │ MySQL Database Bootcamp (6 hrs)
-Tableau 2024 A-Z Visualization (8.5 hrs)  │ SQL Complete Mastery (3.5 hrs)
-Business Intelligence & Analytics (2 hrs) │ Python + Databases (3 hrs)
-ChatGPT Prompt Engineering (1 hr)          │ ... and many more specialized courses
-```
+![IIM](https://img.shields.io/badge/Pre--MBA%20Statistics-COMPLETE-00AA00?style=flat-square&logo=award)
 
-### **🌐 CISCO NETWORKING ACADEMY (CCNA v7)**
+</td>
+<td align="center" width="33%">
 
-```
-✅ Introduction to Networks
-✅ Switching, Routing, and Wireless Essentials
-✅ Enterprise Networking, Security, and Automation
-✅ Introduction to Cybersecurity
-```
+**🏫 IBM Skills Network**
+
+![IBM1](https://img.shields.io/badge/Data%20Science%20Fundamentals-COMPLETE-0066CC?style=flat-square&logo=award)
+![IBM2](https://img.shields.io/badge/Introduction%20to%20AI-COMPLETE-0066CC?style=flat-square&logo=award)
+
+</td>
+<td align="center" width="33%">
+
+**🏫 Google Cloud**
+
+![GCP](https://img.shields.io/badge/Cloud%20Fundamentals-COMPLETE-EA4335?style=flat-square&logo=award)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🏫 University of Michigan**
+
+![UM1](https://img.shields.io/badge/Python%20Programming-COMPLETE-0066CC?style=flat-square&logo=award)
+![UM2](https://img.shields.io/badge/HTML5%20%26%20Web%20Dev-COMPLETE-0066CC?style=flat-square&logo=award)
+
+</td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+### **📚 ADVANCED UDEMY TRAINING** (50+ Hours)
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![Tableau](https://img.shields.io/badge/Tableau%202024-8.5%20hrs-E97627?style=flat-square&logo=tableau)
+
+![Excel](https://img.shields.io/badge/Advanced%20Analytics-21%20hrs-217346?style=flat-square&logo=microsoft-excel)
+
+![BI](https://img.shields.io/badge/BI%20%26%20Analytics-2%20hrs-4CAF50?style=flat-square&logo=chart-pie)
+
+</td>
+<td align="center" width="33%">
+
+![MySQL](https://img.shields.io/badge/MySQL%20Bootcamp-6%20hrs-4479A1?style=flat-square&logo=mysql)
+
+![SQL](https://img.shields.io/badge/SQL%20Mastery-3.5%20hrs-CC2927?style=flat-square&logo=database)
+
+![Python](https://img.shields.io/badge/Python%20%2B%20Databases-3%20hrs-3776AB?style=flat-square&logo=python)
+
+</td>
+<td align="center" width="33%">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT%20Prompt%20Eng-1%20hr-10A37F?style=flat-square&logo=openai)
+
+![More](https://img.shields.io/badge/Additional%20Courses-5%2B%20More-00BCD4?style=flat-square&logo=plus)
+
+</td>
+</tr>
+</table>
+
+### **🌐 CISCO NETWORKING ACADEMY** (CCNA v7)
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+![CCNA1](https://img.shields.io/badge/Introduction%20to%20Networks-✅-1976D2?style=flat-square&logo=cisco)
+
+</td>
+<td align="center" width="25%">
+
+![CCNA2](https://img.shields.io/badge/Switching%20%26%20Routing-✅-1976D2?style=flat-square&logo=cisco)
+
+</td>
+<td align="center" width="25%">
+
+![CCNA3](https://img.shields.io/badge/Enterprise%20Networking-✅-1976D2?style=flat-square&logo=cisco)
+
+</td>
+<td align="center" width="25%">
+
+![CCNA4](https://img.shields.io/badge/Cybersecurity-✅-1976D2?style=flat-square&logo=cisco)
+
+</td>
+</tr>
+</table>
 
 ### **🏫 IIT KANPUR ELITE PROGRAMS**
 
-```
-✅ E&ICT Summer Training in ML (Jul 2019)
-✅ Micro Delinquency Prediction Project (Original ML Research)
-✅ 3D Simplified Mathematics with Excel Workshop
-✅ IEEE Winter School on Fog/Edge Computing (Dec 2020)
-```
+<table>
+<tr>
+<td align="center">
 
-### **🎯 SPECIALIZED WORKSHOPS & WEBINARS (15+ Events)**
+![ML](https://img.shields.io/badge/E&ICT%20Summer%20Training-Machine%20Learning-FF6F00?style=for-the-badge)
 
-```
-💎 Commodity Derivatives Market (NCDEX Institute)        💎 Ethical Hacking Workshop (IEMLabs)
-💎 Cyber Security Systems (Multiple Institutions)        💎 Women in STEM (WiSE 2019)
-💎 Sustainable Energy Technologies (All India Seminar)   💎 Geocomputation & Geoweb (ISRO/IIRS)
-💎 CloudSummit.NXT 2020 (IncubateIND)                   💎 And 8+ more specialized workshops
-```
+Jul 2019
+
+</td>
+<td align="center">
+
+![Micro](https://img.shields.io/badge/Micro%20Delinquency%20Prediction-ML%20Research-1976D2?style=for-the-badge)
+
+Original Research
+
+</td>
+<td align="center">
+
+![Edge](https://img.shields.io/badge/IEEE%20Winter%20School-Fog%2FEdge%20Computing-00AA00?style=for-the-badge)
+
+Dec 2020
+
+</td>
+</tr>
+</table>
+
+### **🎯 SPECIALIZED WORKSHOPS & WEBINARS** (15+ Events)
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**💎 Finance & Markets**
+
+![Commodity](https://img.shields.io/badge/Commodity%20Derivatives-NCDEX%20Institute-FF6F00?style=flat-square)
+![Cyber](https://img.shields.io/badge/Cyber%20Security%20Systems-Multi%20Inst-C62828?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**💎 Technology & Innovation**
+
+![Hacking](https://img.shields.io/badge/Ethical%20Hacking-IEMLabs-1976D2?style=flat-square)
+![Cloud](https://img.shields.io/badge/CloudSummit.NXT%202020-IncubateIND-FF9900?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**💎 Social Impact**
+
+![STEM](https://img.shields.io/badge/Women%20in%20STEM-WiSE%202019-E91E63?style=flat-square)
+![Energy](https://img.shields.io/badge/Sustainable%20Energy-All%20India-4CAF50?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**💎 Geospatial & Research**
+
+![Geo](https://img.shields.io/badge/Geocomputation-ISRO%2FIIRS-2196F3?style=flat-square)
+![More](https://img.shields.io/badge/Plus%208%2B%20More-Specialized-00BCD4?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -561,12 +900,50 @@ ChatGPT Prompt Engineering (1 hr)          │ ... and many more specialized cou
 
 ### **LEADERSHIP TIMELINE**
 
-| 🎯 **Role** | 📍 **Organization** | 📅 **Period** | 🌟 **Impact** |
-|:---:|:---:|:---:|:---|
-| 🎤 **Volunteer Mentor** | IIT Kanpur STEM Fest | 2019-20 | Mentored 50+ students; organized activities |
-| 📋 **Event Coordinator** | Kabaddi Fest Aaveg | 2020 | Managed inter-college logistics for 500+ |
-| ⚽ **Sports Captain** | Jawahar Navodaya Vidyalaya | 2014-15 | Led 40+ athletes; regional tournaments |
-| 🏐 **Regional Athlete** | NVS Kabaddi Meets | 2010-13 | Represented school; won cluster titles |
+<table>
+<tr>
+<td align="center" width="25%">
+
+![Mentor](https://img.shields.io/badge/🎤%20Volunteer%20Mentor-IIT%20Kanpur%20STEM%20Fest-1976D2?style=flat-square)
+
+**2019-20**
+
+Mentored 50+ Students  
+Organized Activities
+
+</td>
+<td align="center" width="25%">
+
+![Coordinator](https://img.shields.io/badge/📋%20Event%20Coordinator-Kabaddi%20Fest%20Aaveg-FF6F00?style=flat-square)
+
+**2020**
+
+Managed 500+ Logistics  
+Inter-college Events
+
+</td>
+<td align="center" width="25%">
+
+![Captain](https://img.shields.io/badge/⚽%20Sports%20Captain-Jawahar%20Navodaya%20Vidyalaya-00AA00?style=flat-square)
+
+**2014-15**
+
+Led 40+ Athletes  
+Regional Tournaments
+
+</td>
+<td align="center" width="25%">
+
+![Athlete](https://img.shields.io/badge/🏐%20Regional%20Athlete-NVS%20Kabaddi%20Meets-C62828?style=flat-square)
+
+**2010-13**
+
+School Representation  
+Won Cluster Titles
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -827,29 +1204,56 @@ ChatGPT Prompt Engineering (1 hr)          │ ... and many more specialized cou
 
 ### **🌟 DID YOU KNOW?** 🌟
 
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  🎓 50+ Certifications Completed                      ║
-║     └─ While pursuing MSc & working on projects      ║
-║                                                        ║
-║  🏆 Won IIT Kanpur ML Hackathon (2019)               ║
-║     └─ Beating hundreds of competitors              ║
-║                                                        ║
-║  👑 Presidential Felicitation (2018)                 ║
-║     └─ Academic excellence recognition               ║
-║                                                        ║
-║  🚀 3 Production ML Models Deployed                  ║
-║     └─ Real-world impact in manufacturing            ║
-║                                                        ║
-║  💻 1000+ GitHub Commits                             ║
-║     └─ Consistent open-source contributions          ║
-║                                                        ║
-║  🌍 Full Stack: Theory → Code → Deployment           ║
-║     └─ From mathematical models to live production   ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+![Certs](https://img.shields.io/badge/50%2B%20Certifications-While%20Studying-FFD700?style=flat-square&logo=award)
+
+Completed during MSc & Projects
+
+</td>
+<td align="center" width="50%">
+
+![IIT](https://img.shields.io/badge/IIT%20Kanpur%20Hackathon-1ST%20PLACE-FF6F00?style=flat-square&logo=trophy)
+
+Beating Hundreds of Competitors
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+![Presidential](https://img.shields.io/badge/Presidential%20Felicitation-2018-9C27B0?style=flat-square&logo=crown)
+
+Academic Excellence Recognition
+
+</td>
+<td align="center" width="50%">
+
+![Production](https://img.shields.io/badge/3%20ML%20Models-LIVE%20PRODUCTION-00AA00?style=flat-square&logo=rocket)
+
+Real-world Impact in Manufacturing
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+![GitHub](https://img.shields.io/badge/1000%2B%20Commits-GitHub%20Active-181717?style=flat-square&logo=github)
+
+Consistent Open-source Contributions
+
+</td>
+<td align="center" width="50%">
+
+![FullStack](https://img.shields.io/badge/Full%20Stack-Theory%20to%20Production-1976D2?style=flat-square&logo=code)
+
+Mathematical Models → Live Deployment
+
+</td>
+</tr>
+</table>
 
 </div>
 
