@@ -11,8 +11,6 @@
 ---
 
 ### 🎯 **Dynamic Live Status Badge**
-![Profile Views](https://komarev.com/ghpvc/?username=xionklintua-blip&label=Profile%20Views&color=00d9ff&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/xionklintua-blip?style=flat-square&color=00d9ff)
 ![Code Time](https://img.shields.io/badge/⏱️%20Avg%20Coding%20Time-5%2B%20hrs%2Fday-00d9ff?style=flat-square)
 
 <br>
@@ -951,23 +949,7 @@ Won Cluster Titles
 
 ## 📊 **GITHUB ANALYTICS DASHBOARD** 📈
 
-<div align="center">
-
-### **🔥 CONTRIBUTION METRICS**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xionklintua-blip&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-### **💻 TECH STACK HEATMAP**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xionklintua-blip&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10)
-
-### **📈 GITHUB PERFORMANCE SCORECARD**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xionklintua-blip&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
----
+<div align="center"
 
 ## 🎮 **INTERACTIVE SKILLS PROGRESS MATRIX** 📊
 
@@ -1024,7 +1006,6 @@ Won Cluster Titles
 
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajeetk095)
 [![Gmail](https://img.shields.io/badge/📧%20Email%20Me-ajeetk095@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajeetk095@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub%20Profile-xionklintua--blip-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xionklintua-blip)
 [![Portfolio](https://img.shields.io/badge/🌟%20Portfolio%20Site-Coming%20Soon-FF6B6B?style=for-the-badge)](https://ajeetk095.github.io)
 
 ### **📱 QUICK CONTACT CARD**
@@ -1321,8 +1302,6 @@ Status: Actively Seeking | Ready to Contribute | Let's Change Markets Together �
 <div align="center">
 
 ### **🎉 THANKS FOR READING! 🎉**
-
-<img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=xionklintua-blip&color=00d9ff&style=flat-square&label=PROFILE+VISITS">
 
 *Follow me for updates on my latest projects, research, and insights in quantitative finance!*
 
